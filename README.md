@@ -1,1 +1,1 @@
-# Programming logic and algorithms design exercises and SQL practice
+# Programming logic and algorithms design exercises
